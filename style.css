@@ -1,6 +1,14 @@
+body {  
+    flex-wrap: wrap; 
+    margin: auto;
+    justify-content: center;
+    align-items: flex-start;    
+} 
+
 .big {
     color:blue
 }
+
 #b325,.b326  {
     border: 1px solid green
 }
@@ -12,11 +20,10 @@
 p {
     background: yellow
 }
-body {
-    width: 200px
-}
 button {
-    color: red
+    color: red;
+    font-weight: bold;
+    background: rgb(243, 215, 198);
 }
 
 
