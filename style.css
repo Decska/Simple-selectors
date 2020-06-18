@@ -15,7 +15,9 @@ p {
 body {
     width: 200px
 }
-
+button {
+    color: red
+}
 
 
 
