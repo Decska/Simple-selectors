@@ -11,6 +11,12 @@ $('#second').on('click', () => {
     
 //Events & Event Listeners, Excercise 3   
 $('#color').on('click', () => {
-      $('button').css('background','lightblue');
-        })
+  $('button').css('background','lightblue');
+    })
+
+$('#blue').on('click', () => {
+  $('h3').css('background','lightblue');
+    })
+
+
        
